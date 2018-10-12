@@ -1,0 +1,20 @@
+
+
+article {
+    width: 100vw;
+    border: 1px solid black;
+    height: 100px;
+    /* using display:table-cell so that I can use vertical-align property */
+    display: table-cell;
+    vertical-align: middle;
+    text-align: left;
+    
+}
+
+#logo {
+    
+    width: 50px;
+    height: 50px;
+    
+}
+
